@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 351,
-    "timeDay": 351,
-    "timeWeek": 351,
-    "timeMonth": 351,
-    "timeYear": 351,
+    "time": 364,
+    "timeDay": 364,
+    "timeWeek": 364,
+    "timeMonth": 364,
+    "timeYear": 364,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1680,
-    "timeDay": 1680,
-    "timeWeek": 1680,
-    "timeMonth": 1680,
-    "timeYear": 1680,
+    "time": 1568,
+    "timeDay": 1568,
+    "timeWeek": 1568,
+    "timeMonth": 1568,
+    "timeYear": 1568,
     "dailyMinutesDown": {}
   },
   {
@@ -41,38 +41,38 @@
     "icon": "https://buddyspace.squarespace.com/favicon.ico",
     "slug": "buddy-space",
     "status": "down",
-    "uptime": "0.03%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "0.03%",
-    "uptimeMonth": "0.03%",
-    "uptimeYear": "0.03%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-20": 65
+      "2023-03-20": 97
     }
   },
   {
     "name": "Buddy-API",
-    "url": "https://api.buddyinsurance.com/",
+    "url": "https://api.buddyinsurance.com/ping",
     "icon": "https://www.buddyspace.squarespace.com",
     "slug": "buddy-api",
-    "status": "down",
-    "uptime": "4.09%",
-    "uptimeDay": "4.09%",
-    "uptimeWeek": "4.09%",
-    "uptimeMonth": "4.09%",
-    "uptimeYear": "4.09%",
-    "time": 208,
-    "timeDay": 208,
-    "timeWeek": 208,
-    "timeMonth": 208,
-    "timeYear": 208,
+    "status": "up",
+    "uptime": "0.27%",
+    "uptimeDay": "0.27%",
+    "uptimeWeek": "0.27%",
+    "uptimeMonth": "0.27%",
+    "uptimeYear": "0.27%",
+    "time": 311,
+    "timeDay": 311,
+    "timeWeek": 311,
+    "timeMonth": 311,
+    "timeYear": 311,
     "dailyMinutesDown": {
-      "2023-03-20": 0
+      "2023-03-20": 31
     }
   }
 ]
