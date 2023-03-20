@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 414,
-    "timeDay": 414,
-    "timeWeek": 414,
-    "timeMonth": 414,
-    "timeYear": 414,
+    "time": 291,
+    "timeDay": 291,
+    "timeWeek": 291,
+    "timeMonth": 291,
+    "timeYear": 291,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1188,
-    "timeDay": 1188,
-    "timeWeek": 1188,
-    "timeMonth": 1188,
-    "timeYear": 1188,
+    "time": 742,
+    "timeDay": 742,
+    "timeWeek": 742,
+    "timeMonth": 742,
+    "timeYear": 742,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.buddyspace.squarespace.com.ico",
     "slug": "buddy-space",
     "status": "down",
-    "uptime": "7.72%",
-    "uptimeDay": "7.72%",
-    "uptimeWeek": "7.72%",
-    "uptimeMonth": "7.72%",
-    "uptimeYear": "7.72%",
+    "uptime": "2.80%",
+    "uptimeDay": "2.80%",
+    "uptimeWeek": "2.80%",
+    "uptimeMonth": "2.80%",
+    "uptimeYear": "2.80%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-20": 0
+      "2023-03-20": 1
     }
   }
 ]
