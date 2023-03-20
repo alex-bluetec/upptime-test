@@ -13,7 +13,7 @@ sites:
     url: https://www.buddyspace.squarespace.com
     icon: https://buddyspace.squarespace.com/favicon.ico
   - name: Buddy-API
-    url: https://api.buddyinsurance.com/
+    url: https://api.buddyinsurance.com/ping
     icon: https://www.buddyspace.squarespace.com
 
 status-website:
