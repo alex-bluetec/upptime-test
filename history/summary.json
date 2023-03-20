@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 387,
-    "timeDay": 387,
-    "timeWeek": 387,
-    "timeMonth": 387,
-    "timeYear": 387,
+    "time": 391,
+    "timeDay": 391,
+    "timeWeek": 391,
+    "timeMonth": 391,
+    "timeYear": 391,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2413,
-    "timeDay": 2413,
-    "timeWeek": 2413,
-    "timeMonth": 2413,
-    "timeYear": 2413,
+    "time": 1943,
+    "timeDay": 1943,
+    "timeWeek": 1943,
+    "timeMonth": 1943,
+    "timeYear": 1943,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,38 @@
     "icon": "https://buddyspace.squarespace.com/favicon.ico",
     "slug": "buddy-space",
     "status": "down",
-    "uptime": "0.06%",
-    "uptimeDay": "0.06%",
-    "uptimeWeek": "0.06%",
-    "uptimeMonth": "0.06%",
-    "uptimeYear": "0.06%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-20": 16
+      "2023-03-20": 45
+    }
+  },
+  {
+    "name": "Second-Chance Offer Element",
+    "url": "https://www.second-chance.buddy.insure",
+    "icon": "https://buddyspace.squarespace.com/favicon.ico",
+    "slug": "second-chance-offer-element",
+    "status": "down",
+    "uptime": "16.35%",
+    "uptimeDay": "16.35%",
+    "uptimeWeek": "16.35%",
+    "uptimeMonth": "16.35%",
+    "uptimeYear": "16.35%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-03-20": 0
     }
   }
 ]
