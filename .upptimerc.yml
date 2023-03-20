@@ -12,6 +12,9 @@ sites:
   - name: BuddySpace
     url: https://www.buddyspace.squarespace.com
     icon: https://buddyspace.squarespace.com/favicon.ico
+  - name: Second-Chance Offer Element
+    url: https://www.second-chance.buddy.insure
+    icon: https://buddyspace.squarespace.com/favicon.ico
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
