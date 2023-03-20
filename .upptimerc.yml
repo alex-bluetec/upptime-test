@@ -7,8 +7,8 @@ sites:
     url: https://www.bluetecllc.com
     icon: https://www.bluetecllc.com/favicon.ico
   - name: Buddy Insure
-    url: https://www.buddy.insure
-    icon: $BUDDY_INSURE
+    url: $BUDDY_INSURE
+    icon: https://www.buddy.insure/favicon.ico
   - name: Buddy-API
     url: https://api.buddyinsurance.com/ping
     icon: https://www.buddyspace.squarespace.com
