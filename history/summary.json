@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 286,
-    "timeDay": 429,
-    "timeWeek": 231,
+    "time": 285,
+    "timeDay": 340,
+    "timeWeek": 233,
     "timeMonth": 265,
-    "timeYear": 286,
+    "timeYear": 285,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 671,
-    "timeDay": 864,
-    "timeWeek": 714,
-    "timeMonth": 670,
-    "timeYear": 671,
+    "time": 662,
+    "timeDay": 580,
+    "timeWeek": 662,
+    "timeMonth": 658,
+    "timeYear": 662,
     "dailyMinutesDown": {}
   },
   {
@@ -47,12 +47,32 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 189,
-    "timeDay": 339,
-    "timeWeek": 145,
-    "timeMonth": 179,
+    "timeDay": 274,
+    "timeWeek": 153,
+    "timeMonth": 180,
     "timeYear": 189,
     "dailyMinutesDown": {
       "2023-03-20": 31
+    }
+  },
+  {
+    "name": "BuddyHQ",
+    "url": "162.245.130.203",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "buddy-hq",
+    "status": "down",
+    "uptime": "86.02%",
+    "uptimeDay": "86.02%",
+    "uptimeWeek": "86.02%",
+    "uptimeMonth": "86.02%",
+    "uptimeYear": "86.02%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-04-24": 0
     }
   }
 ]
