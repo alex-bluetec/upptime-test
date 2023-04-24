@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 285,
-    "timeDay": 340,
-    "timeWeek": 233,
-    "timeMonth": 265,
-    "timeYear": 285,
+    "time": 283,
+    "timeDay": 292,
+    "timeWeek": 229,
+    "timeMonth": 263,
+    "timeYear": 283,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 662,
-    "timeDay": 580,
-    "timeWeek": 662,
-    "timeMonth": 658,
-    "timeYear": 662,
+    "time": 660,
+    "timeDay": 585,
+    "timeWeek": 654,
+    "timeMonth": 656,
+    "timeYear": 660,
     "dailyMinutesDown": {}
   },
   {
@@ -46,33 +46,33 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 189,
-    "timeDay": 274,
-    "timeWeek": 153,
-    "timeMonth": 180,
-    "timeYear": 189,
+    "time": 187,
+    "timeDay": 211,
+    "timeWeek": 146,
+    "timeMonth": 177,
+    "timeYear": 187,
     "dailyMinutesDown": {
       "2023-03-20": 31
     }
   },
   {
     "name": "BuddyHQ",
-    "url": "162.245.130.203",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "url": "https://162.245.130.203",
+    "icon": "https://icons.duckduckgo.com/ip3/162.245.130.203.ico",
     "slug": "buddy-hq",
     "status": "down",
-    "uptime": "77.57%",
-    "uptimeDay": "77.57%",
-    "uptimeWeek": "77.57%",
-    "uptimeMonth": "77.57%",
-    "uptimeYear": "77.57%",
+    "uptime": "5.89%",
+    "uptimeDay": "5.89%",
+    "uptimeWeek": "5.89%",
+    "uptimeMonth": "5.89%",
+    "uptimeYear": "5.89%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-24": 0
+      "2023-04-24": 8
     }
   }
 ]
