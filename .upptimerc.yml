@@ -12,6 +12,8 @@ sites:
   - name: Buddy-API
     url: https://api.buddyinsurance.com/ping
     icon: https://www.buddyspace.squarespace.com
+  - name: BuddyHQ
+    url: 162.245.130.203
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
