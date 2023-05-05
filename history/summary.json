@@ -22,7 +22,7 @@
     "url": "$BUDDY_INSURE",
     "icon": "https://www.buddy.insure/favicon.ico",
     "slug": "buddy-insure",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +33,8 @@
     "timeWeek": 553,
     "timeMonth": 616,
     "timeYear": 637,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-05": 0
+    }
   }
 ]
