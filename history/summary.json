@@ -5,18 +5,19 @@
     "icon": "https://www.bluetecllc.com/favicon.ico",
     "slug": "bluetec-llc",
     "status": "down",
-    "uptime": "19.73%",
+    "uptime": "19.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 250,
-    "timeDay": 198,
-    "timeWeek": 210,
-    "timeMonth": 208,
+    "timeDay": 314,
+    "timeWeek": 232,
+    "timeMonth": 213,
     "timeYear": 244,
     "dailyMinutesDown": {
-      "2024-07-04": 82,
+      "2024-07-05": 82,
+      "2024-07-04": 1440,
       "2024-07-03": 1440,
       "2024-07-02": 1440,
       "2024-07-01": 1440,
@@ -379,8 +380,7 @@
       "2023-07-10": 1440,
       "2023-07-09": 1440,
       "2023-07-08": 1440,
-      "2023-07-07": 1440,
-      "2023-07-06": 1440
+      "2023-07-07": 1440
     }
   },
   {
@@ -394,11 +394,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 586,
-    "timeDay": 836,
-    "timeWeek": 666,
-    "timeMonth": 584,
-    "timeYear": 582,
+    "time": 587,
+    "timeDay": 754,
+    "timeWeek": 724,
+    "timeMonth": 589,
+    "timeYear": 583,
     "dailyMinutesDown": {}
   }
 ]
