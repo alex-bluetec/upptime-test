@@ -5,7 +5,7 @@
     "icon": "https://www.bluetecllc.com/favicon.ico",
     "slug": "bluetec-llc",
     "status": "down",
-    "uptime": "12.70%",
+    "uptime": "12.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -16,7 +16,7 @@
     "timeMonth": 246,
     "timeYear": 230,
     "dailyMinutesDown": {
-      "2025-03-22": 107,
+      "2025-03-22": 1363,
       "2025-03-21": 1440,
       "2025-03-20": 1440,
       "2025-03-19": 1440,
@@ -388,18 +388,19 @@
     "url": "$BUDDY_INSURE",
     "icon": "https://www.buddy.insure/favicon.ico",
     "slug": "buddy-insure",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 526,
-    "timeDay": 434,
-    "timeWeek": 477,
-    "timeMonth": 471,
+    "timeDay": 396,
+    "timeWeek": 462,
+    "timeMonth": 467,
     "timeYear": 506,
     "dailyMinutesDown": {
+      "2025-03-22": 0,
       "2025-02-05": 69
     }
   }
