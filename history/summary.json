@@ -16,7 +16,7 @@
     "timeMonth": 246,
     "timeYear": 230,
     "dailyMinutesDown": {
-      "2025-03-22": 1363,
+      "2025-03-22": 1375,
       "2025-03-21": 1440,
       "2025-03-20": 1440,
       "2025-03-19": 1440,
@@ -388,19 +388,19 @@
     "url": "$BUDDY_INSURE",
     "icon": "https://www.buddy.insure/favicon.ico",
     "slug": "buddy-insure",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 526,
-    "timeDay": 396,
-    "timeWeek": 462,
-    "timeMonth": 467,
+    "timeDay": 410,
+    "timeWeek": 459,
+    "timeMonth": 466,
     "timeYear": 506,
     "dailyMinutesDown": {
-      "2025-03-22": 0,
+      "2025-03-22": 12,
       "2025-02-05": 69
     }
   }
