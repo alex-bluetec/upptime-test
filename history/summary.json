@@ -11,12 +11,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 244,
-    "timeDay": 333,
-    "timeWeek": 260,
-    "timeMonth": 257,
+    "timeDay": 288,
+    "timeWeek": 275,
+    "timeMonth": 261,
     "timeYear": 235,
     "dailyMinutesDown": {
-      "2025-06-01": 1200,
+      "2025-06-02": 125,
+      "2025-06-01": 1440,
       "2025-05-31": 1440,
       "2025-05-30": 1440,
       "2025-05-29": 1440,
@@ -379,8 +380,7 @@
       "2024-06-06": 1440,
       "2024-06-05": 1440,
       "2024-06-04": 1440,
-      "2024-06-03": 1440,
-      "2024-06-02": 1440
+      "2024-06-03": 1440
     }
   },
   {
@@ -390,17 +390,16 @@
     "slug": "buddy-insure",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.99%",
     "time": 536,
-    "timeDay": 637,
-    "timeWeek": 723,
-    "timeMonth": 774,
-    "timeYear": 533,
+    "timeDay": 649,
+    "timeWeek": 728,
+    "timeMonth": 772,
+    "timeYear": 532,
     "dailyMinutesDown": {
-      "2025-06-01": 11,
       "2025-02-05": 69
     }
   }
