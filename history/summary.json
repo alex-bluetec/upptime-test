@@ -5,16 +5,16 @@
     "icon": "https://www.bluetecllc.com/favicon.ico",
     "slug": "bluetec-llc",
     "status": "up",
-    "uptime": "15.87%",
+    "uptime": "15.94%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.65%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
-    "uptimeYear": "23.40%",
-    "time": 272,
-    "timeDay": 463,
-    "timeWeek": 558,
-    "timeMonth": 465,
-    "timeYear": 288,
+    "uptimeYear": "23.68%",
+    "time": 273,
+    "timeDay": 462,
+    "timeWeek": 501,
+    "timeMonth": 464,
+    "timeYear": 289,
     "dailyMinutesDown": {
       "2026-04-11": 36,
       "2026-04-10": 34,
@@ -297,8 +297,7 @@
       "2025-04-23": 1440,
       "2025-04-22": 1440,
       "2025-04-21": 1440,
-      "2025-04-20": 1440,
-      "2025-04-19": 1440
+      "2025-04-20": 1440
     }
   },
   {
@@ -313,10 +312,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 553,
-    "timeDay": 742,
-    "timeWeek": 580,
-    "timeMonth": 503,
-    "timeYear": 584,
+    "timeDay": 302,
+    "timeWeek": 535,
+    "timeMonth": 509,
+    "timeYear": 583,
     "dailyMinutesDown": {
       "2025-12-05": 26
     }
